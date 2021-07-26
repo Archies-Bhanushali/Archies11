@@ -73,12 +73,12 @@ a:hover {
 .skills-img {
   width: 25%;
   float: left;
-  margin-right: 30px;
+  margin-right: 80px;
 }
 .fitness-img {
   width: 25%;
   float: right;
-  margin-left: 30px;
+  margin-left: 80px;
 }
 
 p {
