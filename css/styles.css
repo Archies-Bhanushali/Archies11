@@ -93,6 +93,11 @@ hr {
   margin: 100px auto;
 }
 
+.demo {
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+}
+
 .copyright {
   color: #EAF6F6;
 }
